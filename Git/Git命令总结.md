@@ -18,6 +18,8 @@
 
 `git commit -m <message>`
 
+`git commit --amend`：修改提交到版本库时的message信息。
+
 
 
 ## 4.查看文件状态
